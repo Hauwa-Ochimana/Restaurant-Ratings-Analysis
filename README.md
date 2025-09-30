@@ -20,7 +20,11 @@ The following Power BI features were used;
 - DAX Measures and Formulas
 - Date Visualization
 - Data Storytelling
-  
+
+### Visualization
+
+![](https://github.com/Hauwa-Ochimana/Restaurant-Ratings-Analysis/blob/main/Restaurant.png)
+
 ### Analysis
 - Highest Rated Restaurants: The highest-rated restaurants, such as Tortas Hawaii and Tortas Locas, achieved top ratings by offering cuisines aligned with consumer preferences, targeting high-demand dishes, and serving age groups with strong representation (notably 18–24).
 - Consumer Preferences vs Ratings: Consumer preferences vs ratings show an interesting pattern: while Mexican cuisine had the highest overall demand among respondents, Sushi topped the average overall rating, indicating that high demand does not always translate to the highest satisfaction quality or experience plays a key role. Other top-rated cuisines by average rating include Breakfast and Tex-Mex, showing a strong link between consumer satisfaction and certain popular offerings.

@@ -40,3 +40,7 @@ Restaurants get higher ratings when their menu matches what customers like. In t
 - Invest in restaurants that offer cuisines with high customer ratings, such as Sushi and Breakfast, even if they aren’t the most requested, to leverage quality and satisfaction.
 - Target locations with a high concentration of young consumers, especially students aged 18–24, who make up the majority of respondents.
 - Focus on mid-range pricing, as medium budget level aligns with the spending habits of the dominant consumer segment, 18-24.
+
+
+--- Contact Me:
+![EMAIL](ochimanahauwa@gmail.com)

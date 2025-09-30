@@ -42,5 +42,6 @@ Restaurants get higher ratings when their menu matches what customers like. In t
 - Focus on mid-range pricing, as medium budget level aligns with the spending habits of the dominant consumer segment, 18-24.
 
 
---- Contact Me:
+--- 
+### Contact Me:
 ![EMAIL](ochimanahauwa@gmail.com)

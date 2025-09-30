@@ -27,6 +27,8 @@ The following Power BI features were used;
 - Demographics: The data sample is dominated by younger consumers (18–24), mostly students, which introduces bias in the data sample and in interpreting preferences. 
 - Demand vs Supply Gap; (Cuisine Offered vs Cuisine Preferred): Mexican cuisine was over-supplied relative to consumer preference and demand whereas cuisines like Sushi were under-represented, highlighting opportunities for restaurants to optimize menu offerings to both meet demand and maximize satisfaction.
 
+You can interact with the live dashboard by clicking ![HERE](https://github.com/Hauwa-Ochimana/Restaurant-Ratings-Analysis/blob/main/Restaurant%20Ratings%20Dashboard.pbix)
+
 ### Conclusion/Summary
 Restaurants get higher ratings when their menu matches what customers like. In this data, most respondents are young students (18–24), so the results mainly reflect their preferences. Some cuisines, like Mexican, are very popular but not always rated the highest, while others, like Sushi, are rated very highly even if fewer people prefer them. This shows that both customer demand and quality of the cuisine affect ratings, and there are opportunities for restaurants to adjust menus to satisfy customers better.
 
